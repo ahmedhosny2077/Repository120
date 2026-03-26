@@ -1,6 +1,6 @@
 {
-    "version": "1.5.0",
-    "download_url": "https://github.com/ahmedhosny2077/Repository120/releases/download/v1.5.0/GemhebaStudio_Setup_v1.5.0.exe",
-    "release_notes_ar": "- أيقونة البرنامج الجديدة\n- إصلاح استعادة النسخ الاحتياطية\n- إصلاح عرض أيام الترخيص",
+    "version": "1.6.0",
+    "download_url": "https://github.com/ahmedhosny2077/Repository120/releases/download/v1.6.0/GemhebaStudio_Setup_v1.6.0.exe",
+    "release_notes_ar": "- إضافة نظام الأدوار (أدمن / مدرب / موظف) عند إنشاء المستخدمين\n- تكبير خط الشريط الجانبي\n- ترجمة جميع النصوص الجديدة إلى العربية",
     "file_size_mb": 57
 }
